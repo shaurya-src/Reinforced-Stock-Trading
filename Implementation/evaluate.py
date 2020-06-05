@@ -1,5 +1,4 @@
 import sys
-import random
 from keras.models import load_model
 
 from agent.agent import Agent
@@ -17,7 +16,6 @@ agent = Agent(window_size, True, model_name)
 data = getStockDataVec(stock_name)
 
 
-pos = '{:.2f}'.format(random.uniform(240.81, 784.73))
 l = len(data) - 1
 batch_size = 32
 
@@ -47,7 +45,6 @@ for t in range(l):
     state = next_state
 
     if done:
-        total_profit = float(pos)
         print("--------------------------------")
         print(stock_name + " Total Profit: " + formatPrice(total_profit))
         print("--------------------------------")

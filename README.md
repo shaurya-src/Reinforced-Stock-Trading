@@ -6,9 +6,9 @@ Using Reinfocement Learning on S&P500 dataset to predict the future stock prices
 
   ### To train:
   
-    '''
+    ```
       python train.py stock_dataset 10 100
-    '''
+    ```
   ### To evaluate:
   
   ```

@@ -1,14 +1,14 @@
-<p align="center">
-  <img src="https://github.com/shoheiyokoyama/Assets/blob/master/Gemini/logo.png" width="500">
-</p>
+<code>
+  <h1 align="center">Reinforced Stock Trading </h1>
+</code>
 
 # Overview
 
 <img src="https://github.com/shoheiyokoyama/Assets/blob/master/Gemini/demo-circle-rotation.gif" align="left">
 
-## What is the `Project`?
+## What is this `Project`?
 
-`Project` is Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut porttitor risus, in ultricies arcu. Donec justo ligula, faucibus sed gravida sit
+Stock Trading Bot using Reinforced Learning on S&P500 dataset to predict the future stock prices. The implimentation uses Q-learning Algorithm to achieve the goal state. 
 amet, pulvinar a leo. Ut porta volutpat sem non tempor. Mauris sit amet arcu vitae justo blandit semper. Ut faucibus vestibulum pulvinar.
 Praesent hendrerit dapibus dolor nec volutpat. Vivamus tristique rutrum convallis. Praesent dignissim sed est ut pharetra. Donec
 hendrerit ante eget lorem aliquet lacinia. Vivamus vel quam ut ante eleifend maximus a in est. Donec id nisi tincidunt, aliquam augue et,

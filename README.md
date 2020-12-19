@@ -3,8 +3,8 @@
 </code>
 
 # Overview
-<p align="center">
-  <img src="https://github.com/shaurya-src/Reinforced-Stock-Trading/blob/master/Documents/stock.png" height=400 width=600>
+<p align="left">
+  <img src="https://github.com/shaurya-src/Reinforced-Stock-Trading/blob/master/Documents/stock.png" height=200 width=300>
 </p>
 
 ## What is this `Project`?

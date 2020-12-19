@@ -4,7 +4,7 @@
 
 # Overview
 
-<img src="https://github.com/shoheiyokoyama/Assets/blob/master/Gemini/demo-circle-rotation.gif" align="left">
+<img src="https://github.com/shoheiyokoyama/Assets/blob/master/Gemini/demo-circle-rotation.gif" align="center">
 
 ## What is this `Project`?
 

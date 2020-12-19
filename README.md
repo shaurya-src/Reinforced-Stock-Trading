@@ -93,11 +93,11 @@ Any contributions you make are **greatly appreciated**.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3.x-success?style=flat-square&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/Editor-VS_Code-success?style=flat-square&logo=Visual-Studio-Code&logoColor=white&color=blue">
+  <img src="https://img.shields.io/badge/Editor-PyCharm-success?style=flat-square&logo=PyCharm&logoColor=white&color=blue">
   <img src="https://img.shields.io/badge/Windows-10-success?style=flat-square&logo=Windows&logoColor=white">
 
-  <img src="https://img.shields.io/badge/Library-TensorFlow-success?style=flat-square&logo=TensorFlow&logoColor=white">
-  <img src="https://img.shields.io/badge/Library-Matplotlib-success?style=flat-square&logo=GraphQL&logoColor=white&color=purple">
+  <img src="https://img.shields.io/badge/Library-Keras-success?style=flat-square&logo=Keras&logoColor=white">
+  <img src="https://img.shields.io/badge/Library-NumPy-success?style=flat-square&logo=NumPy&logoColor=white">
 </p>
 
 ## <a name="license"> License

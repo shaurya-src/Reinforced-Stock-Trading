@@ -8,11 +8,9 @@
 
 ## What is this `Project`?
 
-Stock Trading Bot using Reinforced Learning on S&P500 dataset to predict the future stock prices. The implimentation uses Q-learning Algorithm to achieve the goal state. 
-amet, pulvinar a leo. Ut porta volutpat sem non tempor. Mauris sit amet arcu vitae justo blandit semper. Ut faucibus vestibulum pulvinar.
-Praesent hendrerit dapibus dolor nec volutpat. Vivamus tristique rutrum convallis. Praesent dignissim sed est ut pharetra. Donec
-hendrerit ante eget lorem aliquet lacinia. Vivamus vel quam ut ante eleifend maximus a in est. Donec id nisi tincidunt, aliquam augue et,
-pretium ligula. Sed gravida in justo id iaculis. Vestibulum at quam a ligula rhoncus fermentum.
+Stock Trading Bot using Reinforced Learning on S&P500 dataset to predict the future stock prices. The implimentation uses Q-learning Algorithm to achieve the goal state.
+
+Click here for the complete <a href="https://github.com/shaurya-src/Reinforced-Stock-Trading/blob/master/Documents/AI_18BCE2113_sign.pdf"> Documentation </a>.
 
 ```python
 def main()

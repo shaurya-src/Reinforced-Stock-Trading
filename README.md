@@ -3,7 +3,7 @@
 </code>
 
 # Overview
-<img src="https://github.com/shaurya-src/Reinforced-Stock-Trading/blob/master/Documents/stock.png" height=200 width=300>
+<img src="https://github.com/shaurya-src/Reinforced-Stock-Trading/blob/master/Documents/stock.png" height=200 width=300 align="left">
 
 ## What is this `Project`?
 

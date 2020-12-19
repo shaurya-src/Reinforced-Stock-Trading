@@ -10,6 +10,8 @@
 Stock Trading Bot using Reinforced Learning on S&P500 dataset to predict the future stock prices. The implimentation uses Q-learning Algorithm to achieve the goal state.
 
 Click here for the complete <a href="https://github.com/shaurya-src/Reinforced-Stock-Trading/blob/master/Documents/AI_18BCE2113_sign.pdf"> Documentation </a>.
+<br>
+<br>
 
 # Features
 
@@ -28,10 +30,8 @@ Click here for the complete <a href="https://github.com/shaurya-src/Reinforced-S
 
 # Contents
 
-- [Project Details](#project-info)
 - [Usage](#usage)
 - [Requirements](#requirements)
-- [Installation](#installation)
 - [Contribute](#contri)
 - [Tech Stacks](#tech)
 - [License](#license)

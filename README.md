@@ -4,7 +4,7 @@
 
 # Overview
 
-<img src="https://github.com/shaurya-src/Reinforced-Stock-Trading/blob/master/Documents/stock.png" align="center">
+<img src="https://github.com/shaurya-src/Reinforced-Stock-Trading/blob/master/Documents/stock.png" align="center" height=500 width=500>
 
 ## What is this `Project`?
 

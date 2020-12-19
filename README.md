@@ -11,16 +11,6 @@ Stock Trading Bot using Reinforced Learning on S&P500 dataset to predict the fut
 
 Click here for the complete <a href="https://github.com/shaurya-src/Reinforced-Stock-Trading/blob/master/Documents/AI_18BCE2113_sign.pdf"> Documentation </a>.
 
-```python
-def main()
-    text = "Hello World!"
-    return text
-
-if __name__ == '__main__':
-    text = main()
-    print(text)
-```
-
 # Features
 
 ![RepoSize](https://img.shields.io/github/repo-size/shaurya-src/Reinforced-Stock-Trading?logo=GitHub&style=flat-square)
@@ -29,9 +19,9 @@ if __name__ == '__main__':
 
 <img src="https://media.giphy.com/media/xT0Gqn9yuw8hnPGn5K/giphy.gif" align="right" width="300" height="300">
 
-- [x] Lorem ipsum dolor sit amet
-- [x] Lorem ipsum dolor sit amet
-- [x] Lorem ipsum dolor sit amet
+- [x] Reinforcement Learning
+- [x] Deep Q-learning Algorithm
+- [x] Supports different datasets
 - [x] Lorem ipsum dolor sit amet
 - [x] Lorem ipsum dolor sit amet
 - [x] *And More...*
@@ -47,52 +37,47 @@ if __name__ == '__main__':
 - [License](#license)
 - [Author](#author)
 
-# <a name="project-info"> Project Details
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut porttitor risus, in ultricies arcu. Donec justo ligula, faucibus sed gravida sit
-amet, pulvinar a leo. Ut porta volutpat sem non tempor. Mauris sit amet arcu vitae justo blandit semper. Ut faucibus vestibulum pulvinar.
-Praesent hendrerit dapibus dolor nec volutpat. Vivamus tristique rutrum convallis. Praesent dignissim sed est ut pharetra. Donec
-hendrerit ante eget lorem aliquet lacinia. Vivamus vel quam ut ante eleifend maximus a in est. Donec id nisi tincidunt, aliquam augue et,
-pretium ligula. Sed gravida in justo id iaculis. Vestibulum at quam a ligula rhoncus fermentum.
-
-In addition, you can also customize the following properties according to the need.
-
-- Lorem ipsum
-- Lorem ipsum
-- Lorem ipsum
-
 # <a name="usage"> Usage
+  <!-- ### To train:
+  
+  ```
+    python train.py stock_dataset 10 100
+  ```
+  ### To evaluate:
+  
+  ```
+    python evaluate.py test_dataset model_ep100 -->
+1. ***Getting the Project***
 
-1. ***Lorem Ipsum***
+- Clone the repository (`git clone https://github.com/shaurya-src/Reinforced-Stock-Trading.git`)
+- Install all the dependencies/requirements.
+- Setup the project in an editor (ex. PyCharm)
 
-`Project` is designed to be easy to use. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+2. ***Train the model***
 
-2. ***Lorem Ipsum***
+Open terminal in the directory of cloned project.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+`python train.py stock_dataset 10 100`
 
-3. ***Lorem Ipsum***
+The format is: python `training_script.py` `training dataset` `Window Size` `# of episodes`
 
-Finally, call `func(arg)` in `main()`
+- Window size and no. of training episodes can be changed for increasing accuracy.
 
-```python
-def func(arg):
-    return arg
+3. ***Evaluate the model***
 
-func(input())
-```
+Finally, for eavluation of the `model`:
+
+`python evaluate.py test_dataset model_ep100`
+
+The format is: python `evaluation_script.py` `test dataset` `model_no.`
+
+- Change the model no. to check different models, models are set to save after every 10 episodes.
 
 ## <a name="requirements"> Requirements
 
-- Xcode 10.2.1
-- Swift 5.0
-
-## <a name="installation"> Installation
-
-Follow these steps to use *this project*.
-
-1. Clone the repository.
-2. Lorem ipsum
+- Python 3.x
+- Keras
+- NumPy
 
 ## <a name="contri"> Contribute
 

@@ -24,8 +24,6 @@ Click here for the complete <a href="https://github.com/shaurya-src/Reinforced-S
 - [x] Reinforcement Learning
 - [x] Deep Q-learning Algorithm
 - [x] Supports different datasets
-- [x] Lorem ipsum dolor sit amet
-- [x] Lorem ipsum dolor sit amet
 - [x] *And More...*
 
 # Contents

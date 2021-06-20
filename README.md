@@ -124,23 +124,23 @@ Any contributions you make are **greatly appreciated**.
 
 <p align="center">
   <a href="mailto:shaurya.src@gmail.com">
-    <img src="https://github.com/shaurya-src/repo-template/blob/main/Assets/Logos/email.svg" width="30" height="30" hspace="20">
+    <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Logos/email.svg" width="30" height="30" hspace="20">
   </a>
 
   <a href="https://github.com/shaurya-src">
-    <img src="https://github.com/shaurya-src/repo-template/blob/main/Assets/Logos/github.svg" width="30" height="30" hspace="20">
+    <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Logos/github.svg" width="30" height="30" hspace="20">
   </a>
 
   <a href="https://www.linkedin.com/in/shaurya-src/">
-    <img src="https://github.com/shaurya-src/repo-template/blob/main/Assets/Logos/linkedin.svg" width="30" height="30" hspace="20">
+    <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Logos/linkedin.svg" width="30" height="30" hspace="20">
   </a>
 
   <a href="https://www.instagram.com/shaurya_src/">
-    <img src="https://github.com/shaurya-src/repo-template/blob/main/Assets/Logos/instagram.svg" width="30" height="30" hspace="20">
+    <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Logos/instagram.svg" width="30" height="30" hspace="20">
   </a>
 
   <a href="https://twitter.com/shaurya_src">
-    <img src="https://github.com/shaurya-src/repo-template/blob/main/Assets/Logos/twitter.svg" width="30" height="30" hspace="20">
+    <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Logos/twitter.svg" width="30" height="30" hspace="20">
   </a>
 </p>
 
